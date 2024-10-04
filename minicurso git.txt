@@ -20,6 +20,8 @@ vscode
 > Comandos:
 Lista com os principais comandos do Git:
 
+:qa!	comando do linux para abortar o terminar, tipo o Ctrl+C
+
 > Inicializando
 Inicializar um repositório git:
 $ git init
